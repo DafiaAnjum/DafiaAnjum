@@ -11,7 +11,7 @@ Exploring the wonders of many scripting and programminng languages. Learning is 
 I'm open to collaborations on cool projects, let's team up and create something awesome!
 
 ## 🤔 Seeking Help
-while Stuck in the coding cosmos, I'd appreciate some guidance from the tech nerds out here!
+While Stuck in the coding cosmos, I'd appreciate some guidance from the tech nerds out here!
 
 ##  Ask Me About
 Curious about coding, tech trends, music or anything else? Ask away! 
