@@ -16,10 +16,6 @@ While Stuck in the coding cosmos, I'd appreciate some guidance from the tech ner
 ##  Ask Me About
 Curious about coding, tech trends, music or anything else? Ask away! 
 
-## Fun Tech Fact: The First Computer Bug Was a Literal Bug! 🐞
-Yes, the first recorded computer bug was a real-life moth. The moth was found in the Mark II Aiken Relay Calculator at Harvard University on September 9, 1947.
-Since then, every time you squash a bug in your code, you're continuing a tradition that began with a tiny, six-legged culprit! 🐜💻
-
 
 
 
